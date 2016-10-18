@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
-    Name="CompanyName">Your Company, Inc.</Variable>
+    Name="applink"
+    EvaluatedDefinition="www.google.com">www.google.com</Variable>
   <Variable
     Comment=""
     Name="PhoneNumber">858 123 4567</Variable>
   <Variable
-    Name="ProductA"
+    Name="ProductS"
     Comment=""
     Definition="Some text">Product A</Variable>
   <Variable
@@ -16,4 +17,8 @@
     Type="DateTime"
     LastUpdated="2015-12-31T09:27:22.4850702-08:00"
     EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="company_name"
+    Comment=""
+    EvaluatedDefinition="CompanyName">CompanyName</Variable>
 </CatapultVariableSet>

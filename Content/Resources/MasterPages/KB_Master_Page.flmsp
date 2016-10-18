@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="135" MadCap:lastWidth="1224">
     <head>
     </head>
@@ -7,7 +7,7 @@
             <MadCap:breadcrumbsProxy />
             <MadCap:bodyProxy />
             <p style="font-size: 6pt;margin-top: 0;margin-bottom: 0;">&#160;</p>
-            <p class="copyright">Copyright © <MadCap:variable name="MyVariables.Year" />&#160;<MadCap:variable name="MyVariables.CompanyName" /> All rights reserved.</p>
+            <p class="copyright">Copyright © <MadCap:variable name="MyVariables.Year" />&#160;<MadCap:variable name="MyVariables.CompanyName" MadCap:name="MyVariables.applink" /> All rights reserved.</p>
         </div>
     </body>
 </html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="188" MadCap:lastWidth="852">
+    <head>
+    </head>
+    <body>
+        <p>Find the app in one of these locations, depending on your device:</p>
+        <ul>
+            <li>The Apple App Store for iOS devices such as iPhones and iPads.</li>
+            <li>The Google Play Store for Android devices such as the Samsung Galaxy S5 and Motorola Droid Turbo.</li>
+            <li>The Windows Store for Windows 10 mobile devices such as the Lumia phone or Surface tablet. If you have a <MadCap:variable name="MyVariables.company_name" /> <MadCap:variable name="MyVariables.ProductS" />, see the Windows 10 Computers instructions below After set up, you can sync using a mobile device.</li>
+        </ul>
+    </body>
+</html>
